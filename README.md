@@ -27,17 +27,6 @@ Designed to **improve performance, reduce background load, remove ads & bloatwar
 >
 > **Always read the package list before running.**
 
----
-
-## 📂 Repository Structure
-
-```
-poco-m3-speedup-debloat/
-│
-├── poco_m3_speedup_plus_debloat_SAFE.bat
-├── README.md
-└── LICENSE
-```
 
 ---
 
